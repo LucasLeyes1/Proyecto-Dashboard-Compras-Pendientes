@@ -1,4 +1,7 @@
 # Proyecto-Dashboard-Compras-Pendientes
+
+Tecnologias: React, typeScript, Chackra UI, Tauri
+
 Objetivo inicial: 
   • Dashboar conectado a un excel.
   • Creacion, edicion y consulta de entradas.
