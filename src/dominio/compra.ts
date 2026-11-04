@@ -1,6 +1,6 @@
 // import { constructor } from "react";
 
-export class compra{
+export class Compra{
     nCompra:number | null;
     proveedor: string;
     compra: string;
