@@ -1,12 +1,12 @@
-Objetivo inicial: 
+#Objetivo inicial: 
   • Dashboar conectado a un excel.
   • Creacion, edicion y consulta de entradas.
   • Armado de aplicacion de escritorio.
   
   Primeramente se preparara una vista donde se puedan sumar pedidos de compras con diferentes estados (pedido, pendiente de pago, pendiente de mercaderia, etc), Con informacion del proveedor, fecha de inicio, fecha de cierre, monto, numero de OC, una zona para agregar un comentario. Idealmente se agregara un filtro para tener solo a la vista las que esten "activas".
-## Recommended IDE Setup
 
-Objetivos finales:
+
+#Objetivos finales:
   • Generar una segunda tabla con tareas pendientes de larga duracion que requieran un seguimiento, con diferentes campos de informacion y estados.
   • Generacion de vista principal con simplificaciones de la tabla de compras y pendientes.
   • Visualizacion de estadistica, objetivos y montos.
